@@ -1,4 +1,4 @@
-
+﻿//FBの更新で現在動作しません
 $(document).ready(
 		function(){
 			$(':button.stat_elem.as_link.cmnt_like_link').each(function(){
